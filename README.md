@@ -4,11 +4,11 @@ I can also help you establish and run an engineering team in Athens. I have also
 
 I am also available for short term contracting to advise and work alongside your team as we introduce continuous development and delivery within your organisation.
 
-At Aludio, I was based in London alongside the Director of Engineering (also involved in backend development), a product owner and a designer. I was one of the two iOS developers, working on an app that was about browsing, booking and paying for social activities. There was also a remote team of 2 developers (1 iOS, 1 Android) that we worked with very closely. We had a daily standup over video and used Slack for day to day communications. We also held product demos at the end of a sprint and did sprint planning over video too.
+I am solely responsible for inventing, designing and developing [Windmill](https://windmill.io) from scratch. It has taken at least 12 months of full time work.
 
 At [Soldo](https://www.soldo.com), I was based in London. I was working closely with a product owner, a designer and 2 iOS developers. Remotely, I was collaborating with a backend developer. We used Github for pull requests and did ad-hoc/on-demand pair programming. We used JIRA to keep track, monitor progress and assign tasks between us.
 
-I am solely responsible for inventing, designing and developing [Windmill](https://windmill.io) from scratch. It has taken at least 12 months of full time work.
+At Aludio, I was based in London alongside the Director of Engineering (also involved in backend development), a product owner and a designer. I was one of the two iOS developers, working on an app that was about browsing, booking and paying for social activities. There was also a remote team of 2 developers (1 iOS, 1 Android) that we worked with very closely. We had a daily standup over video and used Slack for day to day communications. We also held product demos at the end of a sprint and did sprint planning over video too.
 
 Prior to shifting my focus on becoming an Apple Developer, I was a Java EE developer. I started writing Java EE back in 2001 while working at CERN for my student placement year.
 

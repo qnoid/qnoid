@@ -4,7 +4,7 @@ I can also help you establish and run an engineering team in Athens. I have also
 
 I am also available for short term contracting to advise and work alongside your team as we introduce continuous development and delivery within your organisation.
 
-I am solely responsible for inventing, designing and developing [Windmill](https://windmill.io) from scratch. It has taken at least 12 months of full time work.
+I am solely responsible for inventing, designing and developing [Windmill](https://qnoid.com/software-engineer/#windmill) from scratch. It has taken at least 12 months of full time work.
 
 Prior to shifting my focus on becoming an Apple Developer, I was a Java EE developer. I started writing Java EE back in 2001 while working at CERN for my student placement year.
 
